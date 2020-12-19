@@ -1,0 +1,16 @@
+h1 {
+    background-color: purple;
+    color: white;
+    Font-weight: 50000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+}
+p {
+    Text-align: normal;
+    Width: 150px;
+    Text-decoration: underline green wavy;
+    font-weight: bold;
+    Line-height: 9mm;
+    font-size: small;
+}
+<!-.150 px som width drog texten åt ett konstigt håll.-->
